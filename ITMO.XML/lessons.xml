@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<xs:schema xmlns:xs = "lessons_XML.xml">
+<TimeTable>
+    <item>
+	    <name>XML</name>
+		<teacher>Kouzmin Konstantin</teacher>
+		<time>18:30</time>	
+		<startDate>03.02.2022</startDate>
+		<expirationDate>08.02.2022</expirationDate>
+    </item>
+</TimeTable>
+</xs:schema>

@@ -1,0 +1,11 @@
+<xs:element name="TimeTable">
+    <xs:complexType>
+      <xs:sequence>
+	<xs:element name="name" type="xs:string"/>
+	<xs:element name="teacher" type="xs:string"/>
+	<xs:element name="time" type="xs:string"/>
+	<xs:element name="startDate" type="xs:string"/>
+	<xs:element name="expirationDate" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+</xs:element>

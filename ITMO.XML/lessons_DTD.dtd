@@ -1,0 +1,7 @@
+<!ELEMENT TimeTable (item+)>
+<!ELEMENT item (name, teacher, time, startDate, expirationDate)> 
+<!ELEMENT name (#PCDATA)> 
+<!ELEMENT teacher (#PCDATA)> 
+<!ELEMENT time (#PCDATA)> 
+<!ELEMENT startDate (#PCDATA)> 
+<!ELEMENT expirationDate (#PCDATA)>
